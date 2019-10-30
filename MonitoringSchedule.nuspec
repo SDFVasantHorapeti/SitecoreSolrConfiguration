@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SitecoreSolrConfigurations</id>
+    <authors>Brother</authors>
+    <version>0.0.0.0</version>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>itecore Solr configuration files</description>
+  </metadata>
+  <files>
+    <file src="site_bol\**" target="site_bol" />
+  </files>
+</package>
